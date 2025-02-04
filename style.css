@@ -109,7 +109,9 @@ nav img{
     list-style: none;
     display: inline-block;
     padding: 8px 12px;
-    position: relative;
+    position:relative;
+    top: 10px; /* Atur sesuai kebutuhan */
+    left: 50%;
 }
 .nav-links ul li a{
     text-decoration: none;
